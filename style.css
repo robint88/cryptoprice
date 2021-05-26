@@ -1,0 +1,13 @@
+body {
+    font-family: 'IBM Plex Sans', sans-serif;
+    text-align: center;
+}
+
+#container {
+    font-size: 4rem;
+    letter-spacing: 0.4rem;
+}
+
+#container p {
+    font-size: 2rem;
+}
